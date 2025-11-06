@@ -14,6 +14,9 @@ This Power Automate flow automates the employee leave request and approval proce
 - Sends email notifications and calendar events (planned but not implemented due to Outlook access restrictions).
 
 ## Flow Summary
+
+<img width="277" height="412" alt="image" src="https://github.com/user-attachments/assets/c8b68226-685b-4067-b168-be094220fb48" />
+
 1. Trigger: When a new response is submitted in Microsoft Forms.
 
 2. Action: Get response details from the form.
@@ -66,8 +69,6 @@ This Power Automate flow automates the employee leave request and approval proce
 - Complete import and save the flow.
 
 - Test it with sample leave requests.
-
-<img width="277" height="412" alt="image" src="https://github.com/user-attachments/assets/c8b68226-685b-4067-b168-be094220fb48" /> \n
 
 <img width="319" height="437" alt="image" src="https://github.com/user-attachments/assets/1e40001c-4942-4cbb-952b-e26790fc540e" />
 
