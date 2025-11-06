@@ -68,7 +68,9 @@ This Power Automate flow automates the employee leave request and approval proce
 - Test it with sample leave requests.
 
 <img width="277" height="412" alt="image" src="https://github.com/user-attachments/assets/c8b68226-685b-4067-b168-be094220fb48" />
+
 <img width="319" height="437" alt="image" src="https://github.com/user-attachments/assets/1e40001c-4942-4cbb-952b-e26790fc540e" />
+
 <img width="860" height="137" alt="image" src="https://github.com/user-attachments/assets/98725208-0472-46c2-a0fd-b7d6f7766aed" />
 
 
