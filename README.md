@@ -39,3 +39,6 @@ This Power Automate flow automates the employee leave request and approval proce
 + Microsoft Forms structure for leave request capturing.
 
 + Planned email and calendar integration when Outlook access is available.
+
+<img width="277" height="412" alt="image" src="https://github.com/user-attachments/assets/c8b68226-685b-4067-b168-be094220fb48" />
+
