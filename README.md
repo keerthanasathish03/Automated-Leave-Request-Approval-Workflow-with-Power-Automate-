@@ -24,6 +24,15 @@ This Power Automate flow automates the employee leave request and approval proce
 
 5. Condition: Based on approval outcome, update item status to Approved or Rejected in SharePoint.
 
+## Prerequisites
+- Microsoft Power Automate account with necessary licenses
+
+- Access to Microsoft Forms for submitting requests
+
+- SharePoint Online site with configured list for leave requests
+
+- Optional: Outlook/Microsoft 365 access for email/calendar (currently not available)
+
 ## How to Use
 * Import the exported flow package into your Power Automate environment.
 
@@ -33,6 +42,11 @@ This Power Automate flow automates the employee leave request and approval proce
 
 * Run the flow by submitting leave requests via the linked Microsoft Forms.
 
+## Known Limitations
+- Email notifications and calendar event creation are designed but not yet implemented due to lack of Outlook access.
+
+- Tested primarily in specific environments/sample data conditions.
+
 ## Additional Resources
 + SharePoint list columns: EmployeeID, EmployeeName, LeaveStartDate, LeaveEndDate, Reason, Status.
 
@@ -40,5 +54,22 @@ This Power Automate flow automates the employee leave request and approval proce
 
 + Planned email and calendar integration when Outlook access is available.
 
+## Import Instructions
+- Download the exported flow package (zip file).
+
+- Login to Power Automate.
+
+- Navigate to My Flows > Import.
+
+- Upload the zip package and map required connections (Forms, SharePoint).
+
+- Complete import and save the flow.
+
+- Test it with sample leave requests.
+
 <img width="277" height="412" alt="image" src="https://github.com/user-attachments/assets/c8b68226-685b-4067-b168-be094220fb48" />
+<img width="319" height="437" alt="image" src="https://github.com/user-attachments/assets/1e40001c-4942-4cbb-952b-e26790fc540e" />
+<img width="860" height="137" alt="image" src="https://github.com/user-attachments/assets/98725208-0472-46c2-a0fd-b7d6f7766aed" />
+
+
 
